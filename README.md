@@ -13,5 +13,5 @@ This repository contains my solutions to the **Python Certification** projects b
 
 | Number          | Project          | Status      | Solution              |
 | ----------------| -----------------| ------------| ----------------------|
-| 01 | Report Card Printer    |  ❌ | --- |
+| 01 | Report Card Printer    |  ✅  | [View](./01.%20Python%20Basics/01.%20Report%20Card%20Printer.py) |
 | 02 | Employee Profile Generator   | ❌  | --- |
