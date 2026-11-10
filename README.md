@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![FCC Logo](freecodecamp-org-banner-1.jpg)
+![FCC Logo](freecodecamp-logo.jpg)
 
 </div>
 
