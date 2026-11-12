@@ -6,7 +6,7 @@
 
 # Python Certification
 
-This repository contains my solutions to the **Python Certification** projects by freeCodeCamp. It serves as a record of my learning journey and progress while improving my Python programming skills.
+This repository contains my solutions to the **Python Certification** labs, workshops and projects by freeCodeCamp. It serves as a record of my learning journey and progress while improving my Python programming skills.
 
 
 ## Python Basics
@@ -14,4 +14,5 @@ This repository contains my solutions to the **Python Certification** projects b
 | Number          | Project          | Status      | Solution              |
 | ----------------| -----------------| ------------| ----------------------|
 | 01 | Report Card Printer    |  ✅  | [View](./01.%20Python%20Basics/01.%20Report%20Card%20Printer.py) |
-| 02 | Employee Profile Generator   | ❌  | --- |
+| 02 | Employee Profile Generator   | ✅  | [View](./01.%20Python%20Basics/02.%20Employee%20Profile%20Generator.py) |
+| 03 | Bill Splitter   | ❌  | --- |
